@@ -1,3 +1,4 @@
 Agustin Gonzalez
 Mail:agu_gonzalez94@hotmail.com	
 github:agugonzalez
+practico de metodos numericos
